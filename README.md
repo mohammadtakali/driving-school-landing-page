@@ -2,7 +2,7 @@
 
 A fully responsive driving school landing page built with semantic HTML and modern CSS.
 
-- 🔗 [Live Demo](https://mohammadtakali.github.io/driving-school-landing-page/)
+- 🔗 [Live Demo]( https://mohammadtakali.github.io/driving-school-landing-page/)
 - 👨‍💻 Developed by **Mohammad Takali**
 - 📅 Created - 2026-09-11
 - 🛠️ Technologies Used - HTML, CSS
